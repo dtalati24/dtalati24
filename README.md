@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there, I'm Dhruv 👋
+<a href="https://www.linkedin.com/in/dhruvtalati/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+I'm a Maths & Stats student @ Oxford with an interest in solving complex problems and using technology to do this.
+
+### Projects
+- Mean Reversion Trading Strategy Implementation & Backtesting
 
 <!--
 **dtalati24/dtalati24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
