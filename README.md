@@ -4,7 +4,7 @@
 I'm a Maths & Stats student @ Oxford with an interest in solving complex problems and using technology to do this.
 
 ### Projects
-- Mean Reversion Trading Strategy Implementation & Backtesting
+- <a href="https://github.com/dtalati24/Mean-Reversion-Trading-Algorithm/tree/main">Mean Reversion Trading Algorithm (Implementation & Backtesting)</a>
 
 <!--
 **dtalati24/dtalati24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
