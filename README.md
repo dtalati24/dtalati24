@@ -5,6 +5,7 @@ I'm a Maths & Stats student @ Oxford with an interest in solving complex problem
 
 ### Projects
 - <a href="https://github.com/dtalati24/Mean-Reversion-Trading-Algorithm/tree/main">Mean Reversion Trading Algorithm (Implementation & Backtesting)</a>
+- <a href="https://github.com/dtalati24/batsman-score-predictor">Cricket Batter Score Predictor</a>
 
 <!--
 **dtalati24/dtalati24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
